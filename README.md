@@ -8,7 +8,7 @@ Created simple Hospital Doctor Records.
 2. Delete Records
 
 # prerequisite :
- Required basic kknowledge of Html, Css and JavaScript. 
+ Required basic knowledge of Html, Css and JavaScript. 
 
 # Output :
 
